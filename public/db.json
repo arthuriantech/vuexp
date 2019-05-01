@@ -1,0 +1,72 @@
+{
+	"products": [
+		{
+			"id": "id-1",
+			"name": "Asus Rogue 1",
+			"price": "110.0",
+			"image": "https://5.imimg.com/data5/DA/DE/MY-4326708/lenovo-desktop-computer-500x500.jpg",
+      "gallery": []
+		},
+		{
+			"id": "id-2",
+			"name": "Asus Rogue 2",
+			"price": "115.0",
+			"image": "https://5.imimg.com/data5/DA/DE/MY-4326708/lenovo-desktop-computer-500x500.jpg"
+		},
+		{
+			"id": "id-3",
+			"name": "Asus Rogue 3",
+			"price": "120.0",
+			"image": "https://5.imimg.com/data5/DA/DE/MY-4326708/lenovo-desktop-computer-500x500.jpg"
+		},
+		{
+			"id": "id-4",
+			"name": "HP ProLiant A",
+			"price": "150.0",
+			"image": "https://picsum.photos/id/1032/500/500"
+		},
+		{
+			"id": "id-5",
+			"name": "NASA Space Computer",
+			"price": "1000.0",
+			"image": "https://picsum.photos/id/1033/500/500"
+		},
+		{
+			"id": "id-6",
+			"name": "Dell Opteron X",
+			"price": "300.0",
+			"image": "https://picsum.photos/id/1038/500/500"
+		},
+		{
+			"id": "id-7",
+			"name": "Intel Inside A",
+			"price": "450.0",
+			"image": "https://picsum.photos/id/1036/500/500"
+		},
+
+		{
+			"id": "id-8",
+			"name": "Unit 1",
+			"price": "450.0",
+			"image": "https://picsum.photos/id/1036/500/500"
+		},
+		{
+			"id": "id-9",
+			"name": "Unit 2",
+			"price": "450.0",
+			"image": "https://picsum.photos/id/1036/500/500"
+		},
+		{
+			"id": "id-10",
+			"name": "Unit 3",
+			"price": "450.0",
+			"image": "https://picsum.photos/id/1036/500/500"
+		},
+		{
+			"id": "id-11",
+			"name": "Unit 4",
+			"price": "450.0",
+			"image": "https://picsum.photos/id/1036/500/500"
+		}
+	]
+}

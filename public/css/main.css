@@ -1,0 +1,42 @@
+.nav-item, .nav-link {
+  color: white !important;
+}
+
+.carousel-item {
+  height: 40vh;
+  min-height: 200px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: 0.25rem;
+}
+
+.h3, h3 {
+  font-size: 1.75rem;
+  margin: 20px;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+}
+
+/*# sourceMappingURL=main.css.map */
