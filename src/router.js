@@ -7,6 +7,7 @@ import PcView from './views/PcView'
 import Basket from './views/Basket'
 import Checkout from './views/Checkout'
 import Thanks from './views/Thanks'
+import Charts from './views/Charts'
 
 Vue.use(Router)
 
@@ -14,6 +15,11 @@ export default new Router({
   //mode: 'history',
   //base: process.env.BASE_URL,
   routes: [
+    {
+      path: '/charts',
+      name: 'Charts',
+      component: Charts
+    },
     {
       path: '/',
       name: 'index',

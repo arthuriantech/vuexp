@@ -24,6 +24,9 @@
         </ul>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
+                <router-link to="/charts" class="nav-link"><b>Currency</b></router-link>
+            </li>
+            <li class="nav-item">
                 <router-link class="nav-link" to="/basket">
                     <i class="fas fa-shopping-basket"></i>
                 </router-link>
